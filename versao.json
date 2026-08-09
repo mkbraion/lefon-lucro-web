@@ -1,11 +1,10 @@
 {
-  "versao": "1.4.0",
+  "versao": "1.4.1",
   "data": "09/08/2026",
-  "apk": "https://github.com/mkbraion/kaia-lucro-web/releases/download/v1.4.0/kaia-lucro.apk",
-  "tamanho_mb": 56.3,
+  "apk": "https://github.com/mkbraion/kaia-lucro-web/releases/download/v1.4.1/kaia-lucro.apk",
+  "tamanho_mb": 56.0,
   "notas": [
-    "Traga seus produtos de uma planilha CSV ou Excel — lido no próprio aparelho",
-    "Ou fotografe o caderno e deixe a IA montar a lista",
-    "Você confere e corrige tudo antes de qualquer coisa entrar"
+    "Corrige a importação de arquivos Excel (.xlsx)",
+    "Planilha de qualquer origem agora é lida igual: Excel, LibreOffice, Google Planilhas ou exportada de outro sistema"
   ]
 }
