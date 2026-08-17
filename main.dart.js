@@ -30803,7 +30803,7 @@ j=h.gFm()
 j=A.e2(j,0,A.h7(5,"count",t.S),A.T(j).c)
 j=new A.a3(j,new A.anC(),j.$ti.h("a3<ap.E,h>")).b5(0,", ")
 i=h.RV(f,e,3)
-return"Voc\xea \xe9 a Kaia, assistente de um revendedor brasileiro. Responda em portugu\xeas do Brasil,\ncurto e direto, sem enrola\xe7\xe3o, como quem conhece o neg\xf3cio dele. Use os n\xfameros abaixo.\nNunca invente dados que n\xe3o est\xe3o aqui.\n\nNEG\xd3CIO: "+c+"\n\xdaLTIMOS 30 DIAS: "+d.a+" vendas, faturamento "+r+", lucro "+q+", margem "+p+", ticket m\xe9dio "+o+"\nESTOQUE: "+n+" produtos, "+m+" investidos\nA RECEBER: "+l+" | A PAGAR: "+k+"\nFIADO ATRASADO: "+s+"\nPRODUTOS PARADOS (30+ dias): "+j+"\nTOP LUCRO: "+new A.a3(i,new A.anD(),A.T(i).h("a3<1,h>")).b5(0,", ")+"\n"},
+return"Voc\xea \xe9 a Lefon, assistente de um revendedor brasileiro. Responda em portugu\xeas do Brasil,\ncurto e direto, sem enrola\xe7\xe3o, como quem conhece o neg\xf3cio dele. Use os n\xfameros abaixo.\nNunca invente dados que n\xe3o est\xe3o aqui.\n\nNEG\xd3CIO: "+c+"\n\xdaLTIMOS 30 DIAS: "+d.a+" vendas, faturamento "+r+", lucro "+q+", margem "+p+", ticket m\xe9dio "+o+"\nESTOQUE: "+n+" produtos, "+m+" investidos\nA RECEBER: "+l+" | A PAGAR: "+k+"\nFIADO ATRASADO: "+s+"\nPRODUTOS PARADOS (30+ dias): "+j+"\nTOP LUCRO: "+new A.a3(i,new A.anD(),A.T(i).h("a3<1,h>")).b5(0,", ")+"\n"},
 b5P(a){var s,r,q,p=a.toLowerCase()
 for(s=0;s<46;++s){r="\xe1\xe0\xe2\xe3\xe4\xe9\xe8\xea\xeb\xed\xec\xee\xef\xf3\xf2\xf4\xf5\xf6\xfa\xf9\xfb\xfc\xe7\xc1\xc0\xc2\xc3\xc4\xc9\xc8\xca\xcb\xcd\xcc\xce\xcf\xd3\xd2\xd4\xd5\xd6\xda\xd9\xdb\xdc\xc7"[s]
 q="aaaaaeeeeiiiiooooouuuucAAAAAEEEEIIIIOOOOOUUUUC"[s]
@@ -108361,7 +108361,7 @@ return A.q(A.n8(),$async$Ek)
 case 2:b.Dr("Bool","tema_escuro",q.gFl())
 return A.v(null,r)}})
 return A.w($async$Ek,r)},
-G(a){return new A.H0(B.au6,"KAIA Lucro",A.bnb(this.gFl()),!1,null)}}
+G(a){return new A.H0(B.au6,"Lefon Lucro",A.bnb(this.gFl()),!1,null)}}
 A.aFM.prototype={
 $0(){var s=this.a
 return s.d=!s.gFl()},
@@ -108433,7 +108433,7 @@ A.aNq.prototype={
 $0(){return this.a.e=!0},
 $S:0}
 A.a0x.prototype={
-G(a){var s=null,r=A.S("KAIA Lucro",s,s,s,A.jg(20,s,B.a8),s,s,s),q=A.S("Abrindo o caixa",s,s,s,A.bC(12.5,$.r?B.w:B.y,B.t),s,s,s)
+G(a){var s=null,r=A.S("Lefon Lucro",s,s,s,A.jg(20,s,B.a8),s,s,s),q=A.S("Abrindo o caixa",s,s,s,A.bC(12.5,$.r?B.w:B.y,B.t),s,s,s)
 return A.hk(s,A.dX(A.aS(A.b([B.Ku,B.bH,r,B.hR,q,B.bI,A.cC(A.apj($.r?B.ay:B.aC,s,s,s),s,90)],t.p),B.o,B.i,B.as),s,s),s,s,s)}}
 A.W6.prototype={
 G(a){var s=null,r=$.r,q=r?B.Y:B.V,p=A.cd(12.32)
@@ -109673,7 +109673,7 @@ case 1:return A.u(p.at(-1),r)}})
 return A.w($async$Cc,r)},
 G(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=$.r,g=h?B.Y:B.V,f=A.cd(8)
 g=A.bM(i,A.dX(A.S("K",i,i,i,A.bi(i,i,h?B.bp:B.m,i,i,i,i,i,i,i,i,15,i,i,B.a8,i,i,!0,i,i,i,i,i,i,i,i),i,i,i),i,i),B.p,i,i,new A.bZ(g,i,i,f,i,i,B.T),i,34,i,i,i,i,i,34)
-f=A.S("Kaia",i,i,i,A.jg(16,i,B.a8),i,i,i)
+f=A.S("Lefon",i,i,i,A.jg(16,i,B.a8),i,i,i)
 h=t.p
 f=A.iR(i,A.b_(A.b([g,B.ni,A.aS(A.b([f,A.S("l\xea os seus n\xfameros",i,i,i,A.bC(11,$.r?B.w:B.y,B.t),i,i,i)],h),B.M,B.i,B.l)],h),B.o,B.i,B.l,0,i),0)
 g=j.f
@@ -110647,7 +110647,7 @@ h=h.al(1000*g/100)
 m.push(A.cH(k,A.b_(A.b([i,B.bG,A.ba(A.S("Numa venda de "+l+" no cr\xe9dito 12\xd7, essa taxa te custa "+h+".",o,o,o,A.bC(12.5,$.r?B.Y:B.V,B.t),o,o,o),1)],j),B.o,B.i,B.l,0,o),o,B.el))
 m.push(B.bY)
 m.push(B.aDU)
-l=A.S("A Kaia j\xe1 responde sobre lucro, estoque, fiado e contas usando seus dados \u2014 sem precisar de nada. Se quiser que ela converse mais solto, cole uma chave gratuita do Groq (console.groq.com).",o,o,o,A.bi(o,o,$.r?B.H:B.I,o,o,o,o,o,o,o,o,12.5,o,o,o,o,1.5,!0,o,o,o,o,o,o,o,o),o,o,o)
+l=A.S("A Lefon j\xe1 responde sobre lucro, estoque, fiado e contas usando seus dados \u2014 sem precisar de nada. Se quiser que ela converse mais solto, cole uma chave gratuita do Groq (console.groq.com).",o,o,o,A.bi(o,o,$.r?B.H:B.I,o,o,o,o,o,o,o,o,12.5,o,o,o,o,1.5,!0,o,o,o,o,o,o,o,o),o,o,o)
 k=p.gJM()
 k=A.cs(o,k,o,o,B.YD,1,o,p.Q?"Chave salva \u2014 cole outra pra trocar":"Chave da API (gsk_\u2026)",!0,o,o,o)
 i=$.r
@@ -110854,7 +110854,7 @@ if((r==null?j:r.e)==null)r="Transforme seu estoque num cat\xe1logo com link pr\x
 else{r=r.e
 r.toString
 r="No ar em "+B.d.nK("https://kaia-lucro-loja.vercel.app/"+r,"https://","")}p=t.W9
-r=A.b([new A.ns(B.Y4,"Simuladora","Veja o lucro real antes de fechar o neg\xf3cio",B.ay3),new A.ns(B.Y6,"Kaia","Pergunte sobre os seus n\xfameros em portugu\xeas",B.ay9),new A.ns(B.Yd,"Entrega","Cole os dados bagun\xe7ados e receba a entrega pronta",B.ay5),new A.ns(B.l9,"Loja online",r,B.ayb)],p)
+r=A.b([new A.ns(B.Y4,"Simuladora","Veja o lucro real antes de fechar o neg\xf3cio",B.ay3),new A.ns(B.Y6,"Lefon","Pergunte sobre os seus n\xfameros em portugu\xeas",B.ay9),new A.ns(B.Yd,"Entrega","Cole os dados bagun\xe7ados e receba a entrega pronta",B.ay5),new A.ns(B.l9,"Loja online",r,B.ayb)],p)
 o=i.c.length
 if(o===0)o="Hist\xf3rico, fiado e cobran\xe7a pelo WhatsApp"
 else{n=i.gwa()
@@ -110872,7 +110872,7 @@ m=A.fA(($.r?B.P:B.O).ds(0.35),1)
 l=$.r
 k=A.c_(B.Yq,l?B.P:B.O,j,18)
 n=A.eZ(A.bM(j,A.b_(A.b([k,B.dH,A.S("Sair da conta",j,j,j,A.dC(14,l?B.P:B.O,B.z),j,j,j)],q),B.o,B.i,B.l,0,j),B.p,j,j,new A.bZ(j,j,m,n,j,j,B.T),j,j,j,j,B.kN,j,j,j),new A.aCu(a))
-return A.hk(g,A.j7(A.b([new A.em(f,0,j),B.bI,B.aDA,new A.MH(r,j),B.bY,B.aDu,new A.MH(p,j),B.bY,B.aDs,o,B.bY,n,B.bY,A.dX(A.eZ(A.S("KAIA LUCRO \xb7 1.5.0 \xb7 11/08/2026",j,j,j,A.bi(j,j,$.r?B.w:B.y,j,j,j,j,j,"Archivo",j,j,10.5,j,j,B.z,j,j,!0,j,0.9,j,j,j,j,j,j),j,j,j),new A.aCv(a)),j,j)],q),B.p5,B.aa),j,j,j)},
+return A.hk(g,A.j7(A.b([new A.em(f,0,j),B.bI,B.aDA,new A.MH(r,j),B.bY,B.aDu,new A.MH(p,j),B.bY,B.aDs,o,B.bY,n,B.bY,A.dX(A.eZ(A.S("LEFON LUCRO \xb7 1.5.0 \xb7 11/08/2026",j,j,j,A.bi(j,j,$.r?B.w:B.y,j,j,j,j,j,"Archivo",j,j,10.5,j,j,B.z,j,j,!0,j,0.9,j,j,j,j,j,j),j,j,j),new A.aCv(a)),j,j)],q),B.p5,B.aa),j,j,j)},
 $S:53}
 A.aCs.prototype={
 $0(){var s=A.hG(new A.aCr(),null,t.z)
