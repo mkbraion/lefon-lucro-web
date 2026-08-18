@@ -1,6 +1,6 @@
 'use strict';
 
-// Service worker do KAIA Lucro.
+// Service worker do Lefon Lucro.
 //
 // O Flutter 3.44 aposentou o dele: o flutter_service_worker.js que ele
 // gera hoje só se auto-desregistra. Sem service worker o app não abre
@@ -12,7 +12,7 @@
 //   motor gráfico e fontes     → cache primeiro, revalidando em segundo plano
 //   Supabase e qualquer API    → nunca passa por aqui
 
-const CACHE = 'kaia-lucro-v2';
+const CACHE = 'lefon-lucro-v3';
 
 // Casa com main.dart.js, flutter_bootstrap.js, flutter.js, manifest.json
 // e o próprio index — tudo que muda a cada publicação.
