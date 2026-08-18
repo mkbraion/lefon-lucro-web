@@ -1,7 +1,7 @@
 {
   "versao": "1.4.1",
   "data": "09/08/2026",
-  "apk": "https://github.com/mkbraion/kaia-lucro-web/releases/download/v1.4.1/kaia-lucro.apk",
+  "apk": "https://github.com/mkbraion/lefon-lucro-web/releases/download/v1.4.1/kaia-lucro.apk",
   "tamanho_mb": 56.0,
   "notas": [
     "Corrige a importação de arquivos Excel (.xlsx)",
