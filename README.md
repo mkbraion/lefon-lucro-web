@@ -1,3 +1,19 @@
+<!-- MKBRAION-POLISH:START -->
+<div align="center">
+
+# Lefon Lucro Web
+
+**Aplicação PWA em Flutter para gestão de revendedores: controle de vendas, lucro, estoque, caixa e fiado com integração Supabase.**
+
+[![Repositório](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/mkbraion/lefon-lucro-web) [![Demo ao vivo](https://img.shields.io/badge/Demo-Abrir%20aplicação-2ea44f?logo=vercel)](https://mkbraion.github.io/lefon-lucro-web/)
+
+</div>
+
+**Stack / tópicos:** ``dart`` · ``financial-management`` · ``flutter`` · ``flutter-web`` · ``frontend`` · ``html`` · ``inventory-management`` · ``javascript`` · ``mobile`` · ``pwa`` · ``sales-management`` · ``supabase``
+
+> Projeto mantido por [@mkbraion](https://github.com/mkbraion).
+<!-- MKBRAION-POLISH:END -->
+
 # Lefon Lucro Web
 
 Distribuição Flutter Web/PWA de um aplicativo de gestão para revendedores: lucro por venda, estoque, fiado e caixa.
